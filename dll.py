@@ -110,4 +110,3 @@ dll.deletion_at_end()
 # Display forward and backward
 dll.display_forward()
 dll.display_backward()
-print("halo world")
